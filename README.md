@@ -11,7 +11,7 @@
 
 <br/>
 
-### 🏕️ Software Engineering Student • Camp & Code Enthusiast
+### 🏕️ Information Technology Student • Camp & Code Enthusiast
 
 <br>
 
@@ -46,7 +46,7 @@
 ```javascript
 const nainne = {
   location: "Vietnam 🇻🇳",
-  education: "College Student",
+  education: "IT College Student",
   currentFocus: ["Problem Solving", "Full-Stack Development", "Algorithms"],
   philosophy: "Write code, touch grass, repeat 🌲",
   campingStyle: {
