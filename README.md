@@ -34,7 +34,7 @@
 
 <br>
 
-<details open>
+<details>
 <summary><h2>🔥 About My Journey</h2></summary>
 
 <div align="center">
@@ -60,7 +60,7 @@ const nainne = {
 
 </details>
 
-<details open>
+<details>
 <summary><h2>⚙️ Tech Arsenal</h2></summary>
 
 <div align="center">
@@ -93,7 +93,7 @@ const nainne = {
 
 <br>
 
-<details open>
+<details>
 <summary><h2>📊 GitHub Statistics</h2></summary>
 
 <div align="center">
@@ -129,7 +129,7 @@ const nainne = {
 
 <br>
 
-<details open>
+<details>
 <summary><h2>🎯 Campfire Goals</h2></summary>
 
 <div align="center">
