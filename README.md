@@ -11,7 +11,7 @@
 
 <br/>
 
-### 🏕️ Information Technology Student • Camp & Code Enthusiast
+### 🏕️ Random Student • Camp & Code Enthusiast
 
 <br>
 
