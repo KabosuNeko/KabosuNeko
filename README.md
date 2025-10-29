@@ -194,7 +194,7 @@ echo "🌲 Keep exploring & growing"
 
 <br>
 
-<details open>
+<details>
 <summary><h2>🎨 Current Vibes</h2></summary>
 
 <div align="center">
@@ -247,7 +247,7 @@ echo "🌲 Keep exploring & growing"
 
 <br>
 
-<details open>
+<details>
 <summary><h2>💭 Coding Philosophy</h2></summary>
 
 <div align="center">
