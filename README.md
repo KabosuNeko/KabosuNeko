@@ -30,16 +30,12 @@
 
 ![Yuru Camp S2 - Episode 3 - Nadeshiko Rin Cycle at Night](https://github.com/user-attachments/assets/ad6ed554-70d4-4e8c-a75d-bae6809660c6)
 
-
 </div>
 
 <br>
 
-<div align="center">
-
-## 🔥 About My Journey
-
-</div>
+<details open>
+<summary><h2>🔥 About My Journey</h2></summary>
 
 <div align="center">
 
@@ -62,9 +58,12 @@ const nainne = {
 
 </div>
 
-<div align="center">
+</details>
 
-## ⚙️ Tech Arsenal
+<details open>
+<summary><h2>⚙️ Tech Arsenal</h2></summary>
+
+<div align="center">
 
 <br>
 
@@ -90,13 +89,12 @@ const nainne = {
 
 </div>
 
+</details>
+
 <br>
 
-<div align="center">
-
-## 📊 GitHub Statistics
-
-</div>
+<details open>
+<summary><h2>📊 GitHub Statistics</h2></summary>
 
 <div align="center">
 
@@ -125,16 +123,14 @@ const nainne = {
 
 ![cry](https://github.com/user-attachments/assets/8e60b406-7bed-4a0d-9e2f-839fa9286f3e)
 
-
 </div>
+
+</details>
 
 <br>
 
-<div align="center">
-
-## 🎯 Campfire Goals
-
-</div>
+<details open>
+<summary><h2>🎯 Campfire Goals</h2></summary>
 
 <div align="center">
 
@@ -194,13 +190,12 @@ echo "🌲 Keep exploring & growing"
 
 </div>
 
+</details>
+
 <br>
 
-<div align="center">
-
-## 🎨 Current Vibes
-
-</div>
+<details open>
+<summary><h2>🎨 Current Vibes</h2></summary>
 
 <div align="center">
 
@@ -248,13 +243,12 @@ echo "🌲 Keep exploring & growing"
 
 </div>
 
+</details>
+
 <br>
 
-<div align="center">
-
-## 💭 Coding Philosophy
-
-</div>
+<details open>
+<summary><h2>💭 Coding Philosophy</h2></summary>
 
 <div align="center">
 
@@ -272,6 +266,8 @@ echo "🌲 Keep exploring & growing"
 
 </div>
 
+</details>
+
 <br>
 
 ---
@@ -287,7 +283,6 @@ echo "🌲 Keep exploring & growing"
 <br><br>
 
 ![yuru camp GIF](https://github.com/user-attachments/assets/8fe67a98-eecf-4fb0-ab6d-ffe10c004be0)
-
 
 <br><br>
 
