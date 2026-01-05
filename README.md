@@ -15,18 +15,9 @@
 
 <br>
 
-<a href="https://t.me/NainneDesu">
-  <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" alt="Telegram"/>
-</a>
-<a href="https://github.com/KabosuNeko">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
-</a>
-
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F4A460&center=true&vCenter=true&random=false&width=600&lines=Write+code+%F0%9F%92%BB+Touch+grass+%F0%9F%8C%B2+Repeat+%E2%9C%A8;Building+under+the+starry+sky+%E2%AD%90;Debugging+by+the+campfire+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 ![Yuru Camp S2 - Episode 3 - Nadeshiko Rin Cycle at Night](https://github.com/user-attachments/assets/ad6ed554-70d4-4e8c-a75d-bae6809660c6)
 
@@ -59,16 +50,9 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=KabosuNeko&label=Campfire%20Visitors&color=F4A460&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
-
 <br><br>
-
-![yuru camp GIF](https://github.com/user-attachments/assets/8fe67a98-eecf-4fb0-ab6d-ffe10c004be0)
+  
+<img src="https://komarev.com/ghpvc/?username=KabosuNeko&label=Campfire%20Visitors&color=F4A460&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
 
 <br><br>
 
